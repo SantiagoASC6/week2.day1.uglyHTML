@@ -1,3 +1,47 @@
 body{
     background-color: rgb(53,53,53)
 }
+
+header{
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px;
+    color: whitesmoke;
+    margin: 16px;
+}
+
+h3{
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+}
+
+.imageSize{
+    margin: 16px;
+    max-height: 200px;
+}
+
+.watch_container{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 13px;
+    border-color: #FDEFA6;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
